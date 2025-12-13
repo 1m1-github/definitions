@@ -1,0 +1,1 @@
+typst compile definitions.typ definitions.pdf
